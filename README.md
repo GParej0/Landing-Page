@@ -13,7 +13,7 @@ This project focuses on semantic HTML, advanced CSS styling, and modern layout t
 
 ## 📸 Preview
 
-_(Tip: Replace this link with an actual screenshot of your project. Bonus points if you show both a desktop and a mobile view!)_ ![Landing Page Preview](https://via.placeholder.com/800x400?text=Mercedes+Landing+Page+Preview)
+![Vista previa de la Landing Page](assets/preview1.png)
 
 ---
 
