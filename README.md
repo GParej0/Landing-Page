@@ -72,3 +72,11 @@ Building this project helped me level up my skills in:
    ```bash
    git clone https://github.com/GParej0/Landing-Page.git
    ```
+Then open the project:
+
+cd Landing-Page
+
+Finally open index.html in your browser.
+
+## 👨‍💻 Author
+GitHub: @GParej0
